@@ -1,0 +1,30 @@
+body {
+	background-color: #FFEEDA;
+
+
+}
+h1, p, h2 {
+	color: #40587F; 
+	text-align: center;
+	font-family: : serif;
+	font-style: italic;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+ #second {
+background-image: url("images/backgroundimages.jpg"); 
+  height: 1000px; 
+  width: 1000px; 
+  background-repeat:repeat; 
+  background-size: cover; 
+}
+
+
+
+

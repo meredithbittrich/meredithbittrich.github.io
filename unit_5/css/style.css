@@ -1,0 +1,62 @@
+body {
+	background-color: #FFEEDA;
+
+
+}
+h1, h2 {
+  @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Mystery+Quest&display=swap');
+	color: #40587F; 
+	text-align: center;
+  font-family: 'Dancing Script', cursive;
+	
+}
+p {
+  @import url('https://fonts.googleapis.com/css?family=Archivo+Narrow|Dancing+Script|Mystery+Quest&display=swap');
+    color: #40587F; 
+  text-align: center;
+  font-family: 'Archivo Narrow', sans-serif;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+ #second {
+background-image: url("images/backgroundimages.jpg"); 
+  width: 1000px;
+  height: 1000px;
+  background-repeat:repeat; 
+  background-size: cover; 
+}
+
+header {
+  background-color:  #FFED74;
+   border: 1px black solid;
+    padding: 20px;
+}
+
+nav { 
+  background-color: #E8C66A;
+  border: 1px black solid;
+  padding: 20px;
+}
+
+aside {
+  background-color: #FFC675;
+  border: 1px black solid;
+  padding: 20px;
+}
+article {
+  background-color: #E89C6C;
+  border: 1px black solid;
+  padding: 20px;
+}
+footer {
+  background-color: #FF957E;
+  border: 1px black solid;
+  padding: 20px;
+}
+

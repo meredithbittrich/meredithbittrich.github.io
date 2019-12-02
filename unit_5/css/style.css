@@ -26,8 +26,8 @@ img {
 
  #second {
 background-image: url("images/backgroundimages.jpg"); 
-  width: 1000px;
   height: 1000px;
+  width: 1000px;
   background-repeat:repeat; 
   background-size: cover; 
 }

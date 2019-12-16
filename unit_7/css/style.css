@@ -26,37 +26,37 @@ img {
 
  #second {
 background-image: url("images/backgroundimages.jpg"); 
-  height: 1000ems;
-  width: 100ems;
+  height: 1000px;
+  width: 1000px;
   background-repeat:repeat; 
   background-size: cover; 
 }
 
 header {
   background-color:  #FFED74;
-   border: 1ems black solid;
-    padding: 20ems;
+   border: 1px black solid;
+    padding: 20px;
 }
 
 nav { 
   background-color: #E8C66A;
-  border: 1ems black solid;
-  padding: 20ems;
+  border: 1px black solid;
+  padding: 20px;
 }
 
 aside {
   background-color: #FFC675;
-  border: 1ems black solid;
-  padding: 20ems;
+  border: 1px black solid;
+  padding: 20px;
 }
 article {
   background-color: #E89C6C;
-  border: 1ems black solid;
-  padding: 20ems;
+  border: 1px black solid;
+  padding: 20px;
 }
 footer {
   background-color: #FF957E;
-  border: 1ems black solid;
-  padding: 20ems;
+  border: 1px black solid;
+  padding: 20px;
 }
 
